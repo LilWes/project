@@ -215,7 +215,9 @@ td {
 /* Header */
 
 header {
-	background-color: #36C124;
+	background: url(images/2.jpg);
+	background-repeat: no-repeat;
+	bavkground-position: center;
 	color: #FDFDFB;
   width:170px;
   float:left;
