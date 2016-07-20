@@ -30,9 +30,10 @@ body {
 	font-size: 14px;
 	color: #232323;
 	background-color: #737373;
-	background-image: url(../images/vote.jpg)no-repeat center 500px;
+	background-image: url(../images/vote.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
+	background-size:500px;
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
@@ -180,7 +181,7 @@ pre {
 	margin-bottom: 32px;
 }
 p{
-	color: #336600;
+	color: #fff;
 }
 
 
