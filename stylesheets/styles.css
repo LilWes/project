@@ -30,9 +30,10 @@ body {
 	font-size: 14px;
 	color: #232323;
 	background-color: #737373;
-	background-image: url(../images/vote.jpg)height:1500;
+	background-image: url(../images/vote.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
+	background-size:800%;
 	margin: 0;
 	line-height: 1.8em;
 	-webkit-font-smoothing: antialiased;
